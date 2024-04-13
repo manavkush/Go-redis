@@ -4,8 +4,8 @@ tmp_dir = "tmp"
 
 [build]
   args_bin = []
+  cmd = "make build"
   bin = "./bin/goredis"
-  cmd = "go build -o ./bin/goredis ."
   delay = 1000
   exclude_dir = ["assets", "tmp", "vendor", "testdata"]
   exclude_file = []

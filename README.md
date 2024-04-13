@@ -3,8 +3,7 @@
 Go redis is an implementation of Redis using golang from scratch. 
 The project supports handling of GET, SET commands using a TCP connection like redis.
 
-#### This project familiarized me to the "net" package and using "tcp" connections. Before this I'd only been using the "net/http" package to spin up a webserver. 
-But implementing and handling the connections at the "tcp" level allowed me to understand Go more deeply.
+#### This project familiarized me to the "net" package and using "tcp" connections. Before this I'd only been using the "net/http" package to spin up a webserver. But implementing and handling the connections at the "tcp" level allowed me to understand Go more deeply.
 
 It also includes tests showcasing clients setting, getting the key values.
 

@@ -1,5 +1,5 @@
 # Go Redis
-** A redis implementation using golang. **
+**A redis implementation using Golang.**
 Go redis is an implementation of Redis using golang from scratch. 
 The project supports handling of GET, SET commands using a TCP connection like redis.
 
